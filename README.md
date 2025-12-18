@@ -7,6 +7,8 @@ This project highlights **operational KPIs, outlet performance, product category
 It is suitable for **business analytics learning, sales reporting practice, and retail BI dashboards.**
 
 ---
+![Dashboard](./Blinkit_dashboard.jpg)
+---
 
 ## 🛠️ Tools & Technologies Used
 - Microsoft Power BI Desktop  
